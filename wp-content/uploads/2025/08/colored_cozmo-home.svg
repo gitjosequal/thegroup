@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 226.77 75.45">
+  <defs>
+    <style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:url(#b);}.d{clip-path:url(#c);}.e{fill:url(#d);}.f{clip-path:url(#e);}.g{fill:url(#f);}.h{clip-path:url(#g);}.i{fill:url(#h);}.j{clip-path:url(#i);}.k{fill:url(#j);}.l{clip-path:url(#k);}.m{fill:url(#l);}.n{clip-path:url(#m);}.o{fill:url(#n);}.p{clip-path:url(#o);}.q{fill:url(#p);}.r{clip-path:url(#q);}.s{fill:url(#r);}.t{clip-path:url(#s);}.u{fill:url(#t);}.v{clip-path:url(#u);}.w{fill:url(#v);}.x{clip-path:url(#w);}.y{fill:url(#x);}</style>
+    <clipPath id="a">
+      <path class="a" d="M26.79,15.4A3.21,3.21,0,1,0,30,12.17a3.22,3.22,0,0,0-3.21,3.23"></path>
+    </clipPath>
+    <linearGradient id="b" x1="-442.16" y1="481.99" x2="-440.74" y2="481.99" gradientTransform="matrix(0, 41.93, 41.93, 0, -20177.82, 18534.44)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e2e2d"></stop>
+      <stop offset="0.26" stop-color="#bdc2c7"></stop>
+      <stop offset="1" stop-color="#4a4a49"></stop>
+    </linearGradient>
+    <clipPath id="c">
+      <path class="a" d="M26.79,36.1A3.21,3.21,0,1,0,30,32.86a3.22,3.22,0,0,0-3.21,3.24"></path>
+    </clipPath>
+    <linearGradient id="d" x1="-442.16" y1="481.99" x2="-440.75" y2="481.99" gradientTransform="matrix(0, 41.93, 41.93, 0, -20177.83, 18534.6)" xlink:href="#b"></linearGradient>
+    <clipPath id="e">
+      <path class="a" d="M0,25.49A25.44,25.44,0,0,0,25.33,51a3.29,3.29,0,0,0,0-6.58,18.92,18.92,0,0,1,0-37.83,3.29,3.29,0,0,0,0-6.58A25.43,25.43,0,0,0,0,25.49"></path>
+    </clipPath>
+    <linearGradient id="f" x1="-442.15" y1="481.9" x2="-440.73" y2="481.9" gradientTransform="matrix(0, 41.93, 41.93, 0, -20189.48, 18533.82)" xlink:href="#b"></linearGradient>
+    <clipPath id="g">
+      <path class="a" d="M44.09,25.64a13.81,13.81,0,1,1,13.8,13.9,13.86,13.86,0,0,1-13.8-13.9m-6.55,0A20.36,20.36,0,1,0,57.89,5.17,20.43,20.43,0,0,0,37.54,25.64"></path>
+    </clipPath>
+    <linearGradient id="h" x1="-442.16" y1="482.18" x2="-440.75" y2="482.18" gradientTransform="matrix(0, 41.93, 41.93, 0, -20157.79, 18534.53)" xlink:href="#b"></linearGradient>
+    <clipPath id="i">
+      <path class="a" d="M192.61,25.64a13.81,13.81,0,1,1,13.81,13.9,13.87,13.87,0,0,1-13.81-13.9m-6.54,0A20.35,20.35,0,1,0,206.42,5.17a20.43,20.43,0,0,0-20.35,20.47"></path>
+    </clipPath>
+    <linearGradient id="j" x1="-442.16" y1="483.2" x2="-440.75" y2="483.2" gradientTransform="matrix(0, 41.93, 41.93, 0, -20052.22, 18534.53)" xlink:href="#b"></linearGradient>
+    <clipPath id="k">
+      <path class="a" d="M81.05,6a3.3,3.3,0,0,0,0,6.59h24.42L78.73,39.21a3.34,3.34,0,0,0-1,2.35A3.19,3.19,0,0,0,78,42.8a3.25,3.25,0,0,0,3,2.05h32.4a3.29,3.29,0,0,0,0-6.58H89l26.75-26.66a3.28,3.28,0,0,0,1-2.34A3.16,3.16,0,0,0,116.45,8a3.26,3.26,0,0,0-3-2Z"></path>
+    </clipPath>
+    <linearGradient id="l" x1="-442.15" y1="482.46" x2="-440.73" y2="482.46" gradientTransform="matrix(0, 41.93, 41.93, 0, -20130.42, 18534.01)" xlink:href="#b"></linearGradient>
+    <clipPath id="m">
+      <path class="a" d="M137.59,4.86a16.32,16.32,0,0,0-16.25,16.36V42.71a3.28,3.28,0,1,0,6.55,0V21.22a9.74,9.74,0,0,1,9.7-9.77h1.21a9.74,9.74,0,0,1,9.7,9.77V42.71a3.28,3.28,0,1,0,6.55,0V21.22A16.32,16.32,0,0,0,138.8,4.86Z"></path>
+    </clipPath>
+    <linearGradient id="n" x1="-442.15" y1="482.75" x2="-440.73" y2="482.75" gradientTransform="matrix(0, 41.93, 41.93, 0, -20101.29, 18534.03)" xlink:href="#b"></linearGradient>
+    <clipPath id="o">
+      <path class="a" d="M164.74,4.86A16.32,16.32,0,0,0,148.5,21.22V42.71a3.27,3.27,0,1,0,6.54,0V21.22a9.74,9.74,0,0,1,9.7-9.77H166a9.74,9.74,0,0,1,9.7,9.77V42.71a3.27,3.27,0,1,0,6.54,0V21.22A16.32,16.32,0,0,0,166,4.86Z"></path>
+    </clipPath>
+    <linearGradient id="p" x1="-442.15" y1="482.93" x2="-440.73" y2="482.93" gradientTransform="matrix(0, 41.93, 41.93, 0, -20081.97, 18534.03)" xlink:href="#b"></linearGradient>
+    <clipPath id="q">
+      <path class="a" d="M79.81,64.36v.37c1.2,0,1.29.14,1.29,1.54v3H74.88v-3c0-1.4.09-1.49,1.29-1.54v-.37h-4v.37c1.19,0,1.27.14,1.27,1.54v7.08c0,1.4-.1,1.5-1.27,1.53v.38h4v-.38c-1.19,0-1.29-.15-1.29-1.53V69.74H81.1v3.61c0,1.38-.1,1.5-1.29,1.53v.38h4v-.38c-1.17,0-1.27-.15-1.27-1.53V66.27c0-1.4.08-1.49,1.27-1.54v-.37Z"></path>
+    </clipPath>
+    <linearGradient id="r" x1="-449.31" y1="462.94" x2="-448.16" y2="462.94" gradientTransform="matrix(0, 17.98, 17.98, 0, -8245.43, 8137.52)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c3c3d"></stop>
+      <stop offset="0.26" stop-color="#c7cbcf"></stop>
+      <stop offset="1" stop-color="#555658"></stop>
+    </linearGradient>
+    <clipPath id="s">
+      <path class="a" d="M98.83,73.41a7.77,7.77,0,0,1,0-7.22,3.36,3.36,0,0,1,3-1.64,3.33,3.33,0,0,1,3,1.64,7.77,7.77,0,0,1,0,7.22,3.57,3.57,0,0,1-6,0m-1.19-7.55a6.36,6.36,0,0,0,0,7.86,5.32,5.32,0,0,0,4.2,1.73A5.26,5.26,0,0,0,106,73.72a5.74,5.74,0,0,0,1.36-3.92A5.84,5.84,0,0,0,106,65.86a6,6,0,0,0-8.39,0"></path>
+    </clipPath>
+    <linearGradient id="t" x1="-449.3" y1="463.13" x2="-448.15" y2="463.13" gradientTransform="matrix(0, 17.98, 17.98, 0, -8224.97, 8137.33)" xlink:href="#r"></linearGradient>
+    <clipPath id="u">
+      <path class="a" d="M130.69,64.36l-3.85,8.9L123,64.36h-3.14v.36c.64,0,.81.08,1,.24s.25.53.25,1.31v6.16c0,1.18-.09,1.76-.33,2a1.31,1.31,0,0,1-1.12.4v.38h3.55v-.38c-.66,0-1-.13-1.2-.4s-.25-.66-.25-2V65.14l4.31,10h.71l4.27-10v8.22c0,1.37-.12,1.5-1.27,1.53v.38h4v-.38c-1.17,0-1.27-.15-1.27-1.53V66.27c0-1.4.08-1.49,1.27-1.55v-.36Z"></path>
+    </clipPath>
+    <linearGradient id="v" x1="-449.31" y1="463.29" x2="-448.16" y2="463.29" gradientTransform="matrix(0, 17.98, 17.98, 0, -8203.02, 8137.52)" xlink:href="#r"></linearGradient>
+    <clipPath id="w">
+      <path class="a" d="M145.76,64.36v.36c.75,0,1.05.12,1.16.44.05.13.05.15.08,1.11v7.08c0,1.13,0,1.14-.21,1.32s-.47.23-1,.23v.36h8.56l.33-3-.46,0c-.46,2.07-1.06,2.57-3.13,2.57h-2.59v-5h1.69a3.17,3.17,0,0,1,1.86.35,2,2,0,0,1,.46,1.2h.46V67.85h-.46c-.18,1.32-.5,1.53-2.32,1.53h-1.69V64.81h2.27c2.1,0,2.71.45,3.1,2.27l.48,0-.26-2.69Z"></path>
+    </clipPath>
+    <linearGradient id="x" x1="-449.31" y1="463.46" x2="-448.16" y2="463.46" gradientTransform="matrix(0, 17.98, 17.98, 0, -8182.54, 8137.52)" xlink:href="#r"></linearGradient>
+  </defs>
+  <rect class="a" x="-2.83" y="-1.96" width="232.44" height="79.37"></rect>
+  <g class="b">
+    <rect class="c" x="26.79" y="12.17" width="6.42" height="6.46"></rect>
+  </g>
+  <g class="d">
+    <rect class="e" x="26.79" y="32.86" width="6.42" height="6.47"></rect>
+  </g>
+  <g class="f">
+    <rect class="g" width="28.6" height="50.99"></rect>
+  </g>
+  <g class="h">
+    <rect class="i" x="37.54" y="5.17" width="40.71" height="40.95"></rect>
+  </g>
+  <g class="j">
+    <rect class="k" x="186.07" y="5.17" width="40.7" height="40.95"></rect>
+  </g>
+  <g class="l">
+    <rect class="m" x="77.76" y="5.98" width="38.94" height="38.87"></rect>
+  </g>
+  <g class="n">
+    <rect class="o" x="121.34" y="4.86" width="33.71" height="41.13"></rect>
+  </g>
+  <g class="p">
+    <rect class="q" x="148.5" y="4.86" width="33.71" height="41.13"></rect>
+  </g>
+  <g class="r">
+    <rect class="s" x="72.12" y="64.36" width="11.73" height="10.9"></rect>
+  </g>
+  <g class="t">
+    <rect class="u" x="96.28" y="64.15" width="11.11" height="11.31"></rect>
+  </g>
+  <g class="v">
+    <rect class="w" x="119.63" y="64.36" width="14.12" height="10.9"></rect>
+  </g>
+  <g class="x">
+    <rect class="y" x="145.76" y="64.36" width="8.89" height="10.9"></rect>
+  </g>
+</svg>

@@ -1,7 +1,37 @@
-*
-!.gitignore
-!wp-content/
-!wp-content/**
-!wp-config.php
-!.htaccess
+# WordPress specific ignores
+wp-content/uploads/*
+!wp-content/uploads/.htaccess
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/backup-db/*
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/*
+wp-content/backups/*
+wp-content/debug.log
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Keep SQL files (database backups)
 !*.sql
